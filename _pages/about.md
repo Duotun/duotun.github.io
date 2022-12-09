@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>for God hath given it into your hand, a place where there is no lack of anything that is on the earth.</p>
+    <p>"When you get there, you will find an unsuspecting people and a spacious land that God has put into your hands, a land that lacks nothing whatever" (Judges. 18:10).</p>
     
 
 news: true  # includes a list of news items
