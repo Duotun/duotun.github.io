@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'mini_racer'
+    gem 'jekyll-seo-tag'
     #gem 'wdm', '>=0.1.0'
 end
 group :other_plugins do
