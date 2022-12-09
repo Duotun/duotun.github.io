@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>for God has given it into your hand</p>
-    <p>a place where there is no lack of anything that is on the earth</p>
+    <p>for God hath given it into your hand, a place where there is no lack of anything that is on the earth.</p>
     
 
 news: true  # includes a list of news items
