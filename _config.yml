@@ -6,7 +6,7 @@ title: Duotun Wang #the website title (if blank, full name will be used instead)
 first_name: Duotun
 middle_name: 
 last_name: Wang
-email: you@example.com
+email: duotun@terpmail.umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Duotun's personal academic webpage. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,7 +17,7 @@ footer_text: >
 keywords: duotun, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://duotun.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/
@@ -42,7 +42,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -72,7 +72,7 @@ github_username: Duotun # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: duotun-wang # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -116,8 +116,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar (empty mean not show blog)
+blog_description: Simple Recordin of my life, coding, and academics
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -125,7 +125,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: DT-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -263,7 +263,7 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
+max_author_limit:   # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 

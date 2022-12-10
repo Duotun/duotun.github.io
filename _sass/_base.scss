@@ -522,8 +522,9 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
       .author {
+        font-size: 16.5px; 
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          border-bottom: 2px dashed var(--global-theme-color);
           &:hover {
               border-bottom-style: solid;
               text-decoration: none;

@@ -19,9 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 Currently, I work as software engineer in Rendering & Virtual Reality at ByteDance. Prior to this, I worked as research engineer in Simulation Platform for AI at Xiaomi.
 
-During my graduate study at UMD, I was supervised by [Prof. Huaishu Peng](http://smartlab.cs.umd.edu/) and worked as a research intern within [Document Intelligent Lab at Adobe Research](https://research.adobe.com/research/document-intelligence/). 
+I obtained my master degree in computer science at [University of Maryland, College Park](https://www.umd.edu/) in 2021 and my bachelor degree in computer science at [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
-During Mar. 2019 - July. 2019,  I was a research intern in the Team of User Experience Design(UXD) at Lenovo Research. In 2016 - 2018, I pursued research experiences under the guidance of [Prof. Wei Liang](https://liangwei-bit.github.io/web/).
+During my graduate study, I was supervised by [Prof. Huaishu Peng](http://smartlab.cs.umd.edu/) and worked as research intern within [Document Intelligent Lab at Adobe](https://research.adobe.com/research/document-intelligence/). 
+
+During Mar. 2019 - July. 2019,  I was a research intern in the Team of User Experience Design(UXD) at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html). In 2016 - 2018, I pursued research experiences under the guidance of [Prof. Wei Liang](https://liangwei-bit.github.io/web/).
 
 My research interests include mixed reality, computer graphics, and Interactive design.
 
