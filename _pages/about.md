@@ -6,8 +6,8 @@ subtitle: <a href='#'>ByteDance</a>. Beijing, China.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: selfie.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     <p>"When you get there, you will find an unsuspecting people and a spacious land that God has put into your hands, a land that lacks nothing whatever" (Judges. 18:10).</p>
     
