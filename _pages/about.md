@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Currently, I work as software engineer in Rendering & Virtual Reality at ByteDance. Prior to this, I worked as research engineer in Simulation Platform for AI at Xiaomi.
 
-I obtained my master degree in computer science at [University of Maryland, College Park](https://www.umd.edu/) in 2021 and my bachelor degree in computer science at [Beijing Institute of Technology](https://english.bit.edu.cn/).
+I obtained my master degree in computer science at [University of Maryland, College Park](https://www.umd.edu/) in 2021 and my bachelor degree in computer science at [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2019.
 
 During my graduate study, I was supervised by [Prof. Huaishu Peng](http://smartlab.cs.umd.edu/) and worked as research intern within [Document Intelligent Lab at Adobe](https://research.adobe.com/research/document-intelligence/). 
 
