@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>ByteDance</a>. Beijing, China.
+subtitle: <a href='https://www.bytedance.com/'>ByteDance</a>. Beijing, China.
 
 profile:
   align: right
