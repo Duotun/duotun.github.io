@@ -7,7 +7,7 @@ inline: true
 #inline: false
 ---
 
-Begin my first full-time job at Xiaomi!
+Start the new journey at ByteDance!
 
 <!---
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
