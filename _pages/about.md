@@ -23,7 +23,7 @@ I obtained a master's degree in computer science at [University of Maryland, Col
 
 During my graduate study, I was supervised by [Prof. Huaishu Peng](http://smartlab.cs.umd.edu/) and worked as research intern within [Document Intelligent Lab at Adobe](https://research.adobe.com/research/document-intelligence/). 
 
-During Mar. 2019 - July. 2019,  I was a research intern in the Team of User Experience Design(UXD) at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html). In 2016 - 2018, I pursued research experiences under the guidance of [Prof. Wei Liang](https://liangwei-bit.github.io/web/). I also spent two wonderful summers at UPenn under the supervision of [Prof. Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/) during my undergraduate study. 
+During Mar. 2019 - July. 2019,  I was a research intern in the Team of User Experience Design(UXD) at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html). In 2016 - 2018, I pursued research experiences under the guidance of [Prof. Wei Liang](https://liangwei-bit.github.io/web/). I also spent two wonderful summers at Upenn advised by [Prof. Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). 
 
 My research interests include mixed reality, AI-based 3D Content Creation, and Interactive design.
 
