@@ -1,10 +1,7 @@
 ---
 layout: post
-date: 2021-07-02 15:59:00-0400
+date: 2023-11-01 07:59:00-0400
 inline: true
 ---
 
-Begin my first full-time job at Xiaomi!
-<!---
-Published <a href="one paper ">one paper</a> at ISMAR 2021!
---->
+Back to research as a PhD Student at HKUST (GZ)
