@@ -25,7 +25,7 @@ During my graduate study, I was supervised by [Prof. Huaishu Peng](http://smartl
 
 During Mar. 2019 - July. 2019,  I was a research intern in the Team of User Experience Design(UXD) at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html). In 2016 - 2018, I pursued research experiences under the guidance of [Prof. Wei Liang](https://liangwei-bit.github.io/web/). I also spent two wonderful summers at Upenn advised by [Prof. Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). 
 
-My research interests include discrete differential geometry for AI-Generated Content mixed reality, and Interactive design in mixed reality.
+My research interests include discrete differential geometry for AI-generated content and interactive design in mixed reality.
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
