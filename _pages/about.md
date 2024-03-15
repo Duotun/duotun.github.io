@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.hkust-gz.edu.cn/'>HKUST (GZ)</a>. China.
+subtitle: <a href='https://www.hkust-gz.edu.cn/'>HKUST (GZ)</a>, China.
 
 profile:
   align: right
