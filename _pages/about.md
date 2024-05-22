@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.hkust-gz.edu.cn/'>HKUST (GZ)</a>, China.
+subtitle: <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>, China.
 
 profile:
   align: right
@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently, I am a PhD student of Computational Media and Arts at The Hongkong University of Science and Technology (Guangzhou) and I am fortunate to be co-supervised by [Prof. Mingming Fan](https://www.mingmingfan.com/) and [Prof. Zeyu Wang](https://cislab.hkust-gz.edu.cn/members/zeyu-wang/). Before returning to research, I gained professional experience as a software engineer in Rendering & Virtual Reality at ByteDance from 2022 to 2023, and as a research engineer in Simulation Platform for AI at Xiaomi from 2021 to 2022.
+I am a PhD student of Computational Media and Arts at The Hongkong University of Science and Technology (Guangzhou) and I am fortunate to be co-supervised by [Prof. Mingming Fan](https://www.mingmingfan.com/) and [Prof. Zeyu Wang](https://cislab.hkust-gz.edu.cn/members/zeyu-wang/). Currently, I am also a research intern mentored by [Dr. Xiaohang Zhan](https://xiaohangzhan.github.io/) at Tencent AI Lab.
+
+Before returning to research, I gained professional experience as a software engineer in Rendering & Virtual Reality at ByteDance from 2022 to 2023, and as a research engineer in Simulation Platform for AI at Xiaomi from 2021 to 2022.
 
 I obtained a master's degree in computer science at [University of Maryland, College Park](https://www.umd.edu/) with a full scholarship in 2021 and a bachelor's degree in computer science with an outstanding graduate award at [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2019.
 
