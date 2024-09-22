@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2024-02-28 15:59:00-0400
+#title: A long announcement with details
+date: 2024-03-08 16:11:00-0400
 inline: true
+#inline: false
 ---
 
-One paper accepted by Pacific Graphics 2024
-<!---
-Published <a href="one paper ">one paper</a> at ISMAR 2021!
---->
+One paper accepted by CVPR 2024
