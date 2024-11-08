@@ -5,7 +5,7 @@ inline: true
 ---
 
 One paper accepted by CVPR 2024
-<!--
-Back to research as a PhD Student at HKUST (GZ)
 
--->
+<!---
+Back to research as a PhD Student at HKUST (GZ)
+--->
