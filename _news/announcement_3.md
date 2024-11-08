@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2024-09-22 15:59:00-0400
+date: 2024-11-06 15:59:00-0400
 inline: true
 ---
 
-One paper accepted by Pacific Graphics 2024
+Two papers accepted by 3DV 2025
 
 <!---
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
