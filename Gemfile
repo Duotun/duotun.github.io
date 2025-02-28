@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'jekyll-seo-tag'
     #gem 'wdm', '>=0.1.0'
+    gem 'uri', '= 0.10.1'
 end
 group :other_plugins do
     gem 'httparty'
