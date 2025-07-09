@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student of Computational Media and Arts at The Hongkong University of Science and Technology (Guangzhou) and I am fortunate to be co-supervised by [Prof. Mingming Fan](https://www.mingmingfan.com/) and [Prof. Zeyu Wang](https://cislab.hkust-gz.edu.cn/members/zeyu-wang/). During Apr. to Sept. 2024, I was a research intern mentored by [Dr. Xiaohang Zhan](https://xiaohangzhan.github.io/) at Tencent AI Lab.
+I am a PhD candidate of Computational Media and Arts at The Hongkong University of Science and Technology (Guangzhou) and I am fortunate to be co-supervised by [Prof. Mingming Fan](https://www.mingmingfan.com/) and [Prof. Zeyu Wang](https://cislab.hkust-gz.edu.cn/members/zeyu-wang/). During Apr. to Sept. 2024, I was a research intern mentored by [Dr. Xiaohang Zhan](https://xiaohangzhan.github.io/) at Tencent AI Lab.
 
 Before returning to research, I gained industrial experience as a software engineer in Virtual Reality at ByteDance in 2023, and as a research engineer in Simulation Platform for AI at Xiaomi from 2021 to 2022.
 
