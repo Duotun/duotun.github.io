@@ -12,7 +12,7 @@ profile:
     <p>"When you get there, you will find an unsuspecting people and a spacious land that God has put into your hands, a land that lacks nothing whatever" (Judges. 18:10).</p>
     
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
